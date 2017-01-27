@@ -1,8 +1,10 @@
 # cakephp-ranking
 
-Simple ranking system made with CakePHP 3
+Simple ranking made with CakePHP 3
 
 # Setup
+
+Create a database and set the proper values in the /config/app.php file (use app.default.php as template)
 
 ```
 git clone https://github.com/vortixhead/cakephp-ranking.git
